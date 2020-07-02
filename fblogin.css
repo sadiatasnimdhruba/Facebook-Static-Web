@@ -1,0 +1,91 @@
+   .block1 {
+    background-color: #385898;
+    width: 48.15%;
+    height: 80px;
+    padding-left: 180px;
+    font-size: 40px;
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    padding-top: 40px;
+    float:left;
+    display: inline-block
+    }
+    .block2{
+    	background-color:#385898;
+    width: 25%;
+    height: 80px;
+    float:right;
+    padding-top: 40px;
+    color:#ffffff;
+    display: inline-block;
+      font-family: arial;
+    }
+    .block3{
+    	background-color:#385898;
+    width: 15%;
+    height: 80px;
+      padding-top: 40px;
+    display: inline-block;
+    float:right;
+      color:#ffffff;
+      font-family: arial;
+  
+}
+        .form1 {
+    /*background-color:#cccfdc;*/
+    font-family: arial;
+    width: 41.03%;
+    height: 250px;
+    display: inline-block;
+    float: right;}
+        .form2 {
+    /*background-color: #cccfdc;*/
+    font-family: arial;
+    padding-left: 180px;
+    font-weight: bold;
+    font-size:20px;
+    padding-top: 5px;
+    width: 47.129%;
+    height: 300px;
+    color:#0e385f;
+    line-height: 15px;
+    display: inline-block;
+    float: left;}
+    .forget{
+    	color:#9cb4d8;
+    	padding-bottom: 15px;
+    	font-size: 10px;
+    }
+    .mob{
+	width:352px;
+	height:32px;
+	border-radius: 5%;
+}
+  
+  .nam{
+  	width: 172px;
+  	height:32px;
+  	border-radius: 5%;
+  }
+  .signup{
+  	background:linear-gradient(#67ae55, #578843);
+  	width:120px;
+  	height:40px;
+  	text-align:center;
+  	font-weight: bold;
+  	font-size:20px;
+  	color:#fff;
+  	border-radius: 3%;
+  }
+.para{
+	font-size:10px;
+	color:#777;
+	line-height: 5px;
+}
+.hmmm{
+	font-size:15px;
+	color:#696969;
+	font-weight: bold;
+	
+}
