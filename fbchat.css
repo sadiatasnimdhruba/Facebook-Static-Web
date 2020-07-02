@@ -1,0 +1,162 @@
+body{
+  font-family: arial;
+  width:40%;
+  margin:0 auto;
+}
+.block1 {
+    background-color: #385898;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    float: left;}
+    .block3 {
+    background-color: #385898;
+    width: 95%;
+    height: 30px;
+    display: inline-block;
+    float: right;}
+    .top{
+  background-color:#385898;
+  height:95px;}
+  
+  nav a{
+  display: inline-block;
+  margin-right: 4%;
+  color:#fff;
+  padding: 12px 4px;
+  
+  text-decoration:none;
+  font-family: arial;
+  line-height:3px;
+}
+
+.bold{
+  font-weight: bold;
+  color:#fff496;
+  width:10%;
+}
+.noti{
+  width:15%;
+}
+.hihi{
+  width:5%;
+}
+.corona{
+  width:12.5%;
+}
+.chat{
+  width:9%;
+}
+.ho{
+  width:12%;
+ background-color: #6d84b4;
+}
+.mg{
+  width:12%;
+}
+    .girl{
+        padding-top:5px;
+        padding-left:5px;
+        padding-right:5px;
+    }
+  input[type="text"]{
+  width:85%;
+  margin-top:5px;
+ /* padding-top: 5px;
+  padding-bottom:5px;*/
+  
+
+}
+.search{
+  background-color:#627aba;
+  color:#fff;
+  border:1px solid #2e417e;
+  width:12%;
+  height:24px;
+
+}
+.hihi:hover{
+     background:#FFFFFF;
+    color:#0000FF;
+    width:7%;
+}
+.mg:hover{
+  background:#FFFFFF;
+    color:#0000FF;
+    width:12%;
+}
+.ho:hover{
+  background:#FFFFFF;
+    color:#0000FF;
+    width:12%;
+}
+.chat:hover{
+  background:#FFFFFF;
+    color:#0000FF;
+    width:11.5%;
+}
+.corona:hover{
+      background:#FFFFFF;
+    color:#0000FF;
+    width:13.5%;
+}
+.menu:hover{
+      background:#FFFFFF;
+    color:#0000FF;
+    width:7%;
+}
+.bold:hover{
+      background:#FFFFFF;
+    color:#385898;
+    
+}
+.noti:hover{
+    width:18.5%;
+}
+.fr:hover{
+    width:15%;
+}
+.gr:hover{
+    width:13.5%;
+}
+.active{
+  background-color:#f5f6f7;
+  height:60px;
+ border-bottom: 2px solid #bec3c9;
+
+}
+.t{
+  width:100%;
+  line-height:30px;
+}
+.As{
+  color:#3b5998;
+  font-weight:700;
+}
+.Ch{
+  color:#385898;
+}
+.Re{
+  color:#3b5998;
+  font-weight:bold;
+}
+.txtd{
+  text-decoration:none;
+  color:#385898;
+}
+table{
+  border-collapse: collapse;
+  border:0.1px solid #fff;
+  width:100%;
+}
+.dir{
+  direction: rtl;
+}
+.r{
+  border-bottom: 0.1px solid #cdd5e2;
+  width:100%;
+}
+.hov:hover{
+  color:#fff;
+  background-color: #385898;
+}
